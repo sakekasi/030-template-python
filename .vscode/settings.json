@@ -22,7 +22,8 @@
       "source ${workspaceFolder}/scripts/track-history.fish"
     ],
     "[python]": {
-      "editor.defaultFormatter": "ms-python.black-formatter"
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "terminal.activateEnvironment": false
     }
   }
 }
