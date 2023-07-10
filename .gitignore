@@ -1,3 +1,4 @@
 .bash_history
 .fish_history
 .venv
+/.env
