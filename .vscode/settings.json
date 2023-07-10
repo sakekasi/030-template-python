@@ -11,7 +11,7 @@
         "-C",
         "source ${workspaceFolder}/scripts/track-history.fish",
         "-C",
-        "poetry shell",
+        "poetry shell"
       ]
     },
     "terminal.integrated.shell.linux": "/usr/bin/fish",
@@ -19,7 +19,10 @@
       "-C",
       "poetry shell",
       "-C",
-      "source ${workspaceFolder}/scripts/track-history.fish",
-    ]
+      "source ${workspaceFolder}/scripts/track-history.fish"
+    ],
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter"
+    }
   }
 }
