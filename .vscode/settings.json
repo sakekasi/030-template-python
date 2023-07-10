@@ -21,9 +21,8 @@
       "-C",
       "source ${workspaceFolder}/scripts/track-history.fish"
     ],
-    "[python]": {
-      "editor.defaultFormatter": "ms-python.black-formatter",
-      "terminal.activateEnvironment": false
-    }
+    "python.editor.defaultFormatter": "ms-python.black-formatter",
+    "python.terminal.activateEnvironment": false,
+    "python.linting.pylintEnabled": false
   }
 }
