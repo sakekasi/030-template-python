@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "github.copilot",
+    "ms-python.black-formatter",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff"
+  ]
+}
